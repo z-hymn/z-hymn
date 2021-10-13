@@ -1,8 +1,8 @@
-👋  Hi, I’m @z-hymn aka zoe. 
+👋  Hi, I’m Zoe. 
 
-- 👀  I’m interested in data analytics and helping communicate complex ideas. 
-- 🌱  I’m currently learning SQL, Python, APIs. 
-- 💞️  I’m looking to collaborate on first time and beginner projects by writing about APIs, how-to guides, FAQs, etc.
+- 👀  I’m interested in data analytics.
+- 🌱  I’m currently learning SQL, Python, and Data Visualization. 
+
 
 <!---
 z-hymn/z-hymn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
