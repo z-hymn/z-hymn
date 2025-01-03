@@ -1,7 +1,8 @@
 👋  Hi, I’m Zoe. 
 
-- 👀  I’m interested in data analytics.
-- 🌱  I’m currently learning SQL, Python, and Data Visualization. 
+- 👀  Going into my third year of data/analytics. Currently a Senior Data Analyst at The Home Depot with an interest in data engineering. 
+- 🌱  I’m currently working on data pipelines and CI/CD, scaling data, and removing data silos.
+-  In my off time, I spend time with my kids, husband, and dog. In that order.
 
 
 <!---
